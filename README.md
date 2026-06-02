@@ -10,16 +10,17 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 
 
 ---
-
 ## 🌼 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtoOXdvZ2xsb2dzbWdpYnF1aW9vOHAwY2U5Nmk3NHV5MzRudmtkeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9biQXc6uWp2wMMMgK2/giphy.gif">
+🎓 Software Development Student at SESI-SENAI Technical School (Brazil)
 
- * 🎓 Software Development Student at SESI-SENAI Technical School (Brazil)
- * 📍 Lorena, São Paulo, Brazil
- * 📚 Always looking to learn new technologies
- * 🔍 Interested in Software Development, Automation, and Technology
- * 🎯 Goal: Build impactful solutions and develop a solid career in technology
+📍 Lorena, São Paulo, Brazil
+
+📚 Always looking to learn new technologies
+
+🔍 Interested in Software Development, Automation, and Technology
+
+🎯 Goal: Build impactful solutions and develop a solid career in technology
 
 ---
 
@@ -70,13 +71,19 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 
 ## 🏵️ Current Focus
 
-* 🐍 Improving my Python programming skills
-* 🖥️ Deepening my knowledge of Linux Ubuntu and command-line environments
-* ⚙️ Learning Software Engineering principles and best practices
-* 🤖 Developing Arduino-based projects and automation solutions
-* 💻 Expanding my C++ programming knowledge
-* 📚 Building a strong foundation in software development concepts
-* 🚀 Continuously improving problem-solving and analytical thinking skills
+🐍 Improving my Python programming skills
+
+🖥️ Deepening my knowledge of Linux Ubuntu and command-line environments
+
+⚙️ Learning Software Engineering principles and best practices
+
+🤖 Developing Arduino-based projects and automation solutions
+
+💻 Expanding my C++ programming knowledge
+
+📚 Building a strong foundation in software development concepts
+
+🚀 Continuously improving problem-solving and analytical thinking skills
 
 ---
 
