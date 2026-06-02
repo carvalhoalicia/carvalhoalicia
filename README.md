@@ -22,12 +22,14 @@
 
 ## 🪻 Currently Learning
 
-![Python](https://www.python.org/)
-![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Windows CMD](https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
 
 ---
 
