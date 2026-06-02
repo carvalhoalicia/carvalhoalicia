@@ -8,7 +8,6 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student;Learning+Python+and+C%2B%2B;Exploring+Linux+and+Arduino;Always+Learning+Something+New" />
 </p>
 
-# 🪻 Hi, I'm Alicia
 
 🎓 Technical Student in **Software Development** at **SESI-SENAI Technical School (Brazil)**.
 
