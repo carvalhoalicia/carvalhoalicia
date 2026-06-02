@@ -22,7 +22,7 @@
 
 ## 🪻 Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://www.python.org/)
 ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
