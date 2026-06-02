@@ -105,4 +105,4 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czY1a21tMDBmd3E4OHFycGJ6eG02N3c2cTU2Y2EzYmlva3R4ZmVreSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x6FdZZgXksZHy/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-> "Technology moves the world, but continuous learning drives technology forward."
+> "Turning curiosity into knowledge and knowledge into solutions."
