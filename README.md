@@ -81,8 +81,7 @@
 
 ## 🪻 Contact
 
-📧 Email: santtilhos@gmail.com(mailto:your.email@example.com)
-
+📧 Email: santtilhos@gmail.com
 🐙 GitHub: https://github.com/carvalhoalicia
 
 ---
