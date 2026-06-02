@@ -89,14 +89,13 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 
 ---
 
----
 
-## 🪷 Contact
+## 🪷 Let's Connect
 
-📧 Email: alicia.senai8124@gmail.com
+📧 E-mail: santtilhos@gmail.com
+
 🐙 GitHub: https://github.com/carvalhoalicia
 
----
 ---
 
 ## 💮 Thanks for Visiting!
