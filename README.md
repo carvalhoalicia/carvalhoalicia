@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Alicia</h1>
 
 <h3 align="center">
@@ -106,4 +105,3 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 </p>
 
 > "Turning curiosity into knowledge and knowledge into solutions."
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
