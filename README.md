@@ -9,14 +9,6 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 </p>
 
 
-🎓 Technical Student in **Software Development** at **SESI-SENAI Technical School (Brazil)**.
-
-💻 Passionate about technology, programming, and solving problems through software development.
-
-🎯 *Focused on building a strong foundation in software development while continuously learning new technologies and best practices.*
-
-🚀 Currently expanding my knowledge in software development, operating systems, and applied electronics.
-
 ---
 
 ## 🌼 About Me
