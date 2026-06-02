@@ -12,15 +12,17 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 ---
 ## 🌼 About Me
 
-🎓 Software Development Student at SESI-SENAI Technical School (Brazil)
+<img align="right" alt="Coding" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F4NzVzendnODIzbXJnZnA1MDNxaDRkZ2t6dWF1YXY0NW43M24xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TbRkubcqlgBksEqMv4/giphy.gif">
 
-📍 Lorena, São Paulo, Brazil
+ 🎓 Software Development Student
 
-📚 Always looking to learn new technologies
+ 📍 Cruzeiro, São Paulo, Brazil
 
-🔍 Interested in Software Development, Automation, and Technology
+ 📚 Always looking to learn new technologies
 
-🎯 Goal: Build impactful solutions and develop a solid career in technology
+ 🔍 Interested in Software Development, Automation, and Technology
+
+ 🎯 Goal: Build impactful solutions and develop a solid career in technology
 
 ---
 
