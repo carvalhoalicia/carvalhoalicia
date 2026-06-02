@@ -10,7 +10,7 @@
 
 ---
 
-## 🪻 About Me
+## 🌼 About Me
 
 * 🎓 Software Development Student
 * 📍 Lorena, São Paulo, Brazil
@@ -20,7 +20,7 @@
 
 ---
 
-## 🪻 Currently Learning
+## 🌻 Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🪻 Skills & Technologies
+## 💐 Skills & Technologies
 
 | Category              | Technologies                      |
 | --------------------- | --------------------------------- |
@@ -45,7 +45,7 @@
 
 ---
 
-## 🪻 Core Strengths
+## 🌸 Core Strengths
 
 ✔️ Self-management
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🪻 Current Focus
+## 🏵️ Current Focus
 
 * 🐍 Improving my Python programming skills
 * 🖥️ Deepening my knowledge of Linux Ubuntu and command-line environments
@@ -79,7 +79,7 @@
 
 ---
 
-## 🪻 Contact
+## 🪷 Contact
 
 📧 Email: santtilhos@gmail.com
 🐙 GitHub: https://github.com/carvalhoalicia
