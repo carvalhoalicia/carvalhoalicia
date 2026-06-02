@@ -33,18 +33,15 @@
 
 ---
 
-## 🪻 Technologies & Tools
+## 🪻 Skills & Technologies
 
-```text
-💻 Programming Languages:
-Python | C++
-
-🖥️ Operating Systems:
-Linux Ubuntu | Windows
-
-🔧 Tools:
-Arduino IDE | Git | GitHub | CMD
-```
+| Category              | Technologies                      |
+| --------------------- | --------------------------------- |
+| 💻 Programming        | Python, C++                       |
+| 🖥️ Operating Systems | Ubuntu Linux, Windows             |
+| ⚙️ Development        | Software Engineering, Git, GitHub |
+| 🤖 Embedded Systems   | Arduino                           |
+| 🛠️ Tools             | VS Code, CMD                      |
 
 ---
 
