@@ -16,7 +16,7 @@ Technical Student in Software Development | Python Learner | Arduino Enthusiast
 
  🎓 Software Development Student
 
- 📍 Cruzeiro, São Paulo, Brazil
+ 📍 Lorena, São Paulo, Brazil
 
  📚 Always looking to learn new technologies
 
