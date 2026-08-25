@@ -1,107 +1,339 @@
-<h1 align="center">Hi 👋, I'm Alicia</h1>
+<div align="center">
 
-<h3 align="center">
-Technical Student in Software Development
-</h3>
+<img src="cinnamoroll-banner.jpg" width="100%" height="200px" style="object-fit: cover; display: block; border-radius: 15px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=Software+Development+Student;Learning+Python+and+C%2B%2B;Exploring+Linux+and+Arduino;Learning+HTML+and+CSS;Always+Learning+Something+New" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=27&pause=1000&color=7EC8E3&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Oii%2C+eu+sou+a+Kiyomi!+%E2%98%81%EF%B8%8F;%E2%9C%A8+Bem-vindo+ao+meu+cantinho!+%E2%9C%A8;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Currently+learning...+HTML+%26+CSS" alt="Typing SVG">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9DDAF2&height=3&section=header" width="70%">
+
+<p>
+  ☁️ <em>Estudante de Desenvolvimento de Sistemas</em><br>
+  🩵 <em>aprendendo, criando e explorando tecnologia</em><br>
+  ✦ <em>um código de cada vez, nas nuvens</em>
 </p>
 
+<br>
 
----
-## 🌼 About Me
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="150">
 
-<img align="right" alt="Coding" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F4NzVzendnODIzbXJnZnA1MDNxaDRkZ2t6dWF1YXY0NW43M24xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TbRkubcqlgBksEqMv4/giphy.gif">
+<br><br>
 
- 🎓 Software Development Student
-
- 📍 Lorena, São Paulo, Brazil
-
- 📚 Always looking to learn new technologies
-
- 🔍 Interested in Software Development, Automation, and Technology
-
- 🎯 Goal: Build impactful solutions and develop a solid career in technology
+</div>
 
 ---
 
-## 🌻 Currently Learning
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
+## ☁️₊˚⊹♡ sobre mim ♡⊹˚₊☁️
+
+<table>
+<tr>
+
+<td width="55%" align="center">
+
+<img src="https://media.tenor.com/4F7D8qY7qYAAAAAi/cute-cat.gif" width="100">
+
+<br><br>
+
+🩵 **Estudante de Desenvolvimento de Sistemas** <br>
+🌐 Atualmente aprendendo **HTML e CSS** <br>
+🐘 Aprendendo **PHP** <br>
+🗄️ Aprendendo **Banco de Dados** <br>
+🐍 Conhecimento em **Python** <br>
+⚙️ Conhecimento em **C++** <br>
+🐧 Familiaridade com **Linux** <br>
+☁️ Sempre explorando coisas novas
+
+<br><br>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="180">
+
+<br><br>
+
+```text id="9m7j3a"
+       ☁️       ☁️
+    ☁️    ♡    ☁️
+       /\___/\
+      ( ｡• ﻌ •｡ )
+       / づ☁️
+
+    ✦ coding in
+      the clouds ✦
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🩵₊˚୨୧ linguagens & ferramentas ୨୧˚₊🩵
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,mysql,arduino,linux,git,github,vscode&theme=light">
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+🐍<br>
+<b>Python</b><br>
+<sub>Conhecimento</sub>
+</td>
+
+<td align="center">
+⚙️<br>
+<b>C++</b><br>
+<sub>Conhecimento</sub>
+</td>
+
+<td align="center">
+🌐<br>
+<b>HTML</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🎀<br>
+<b>CSS</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🐘<br>
+<b>PHP</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>SQL</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>☁️ tecnologias que estou aprendendo, praticando e explorando ☁️</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ☁️₊˚ʚ♡ɞ˚₊ atualmente aprendendo ₊˚ʚ♡ɞ˚₊☁️
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+🌐<br>
+<b>HTML</b><br>
+<sub>estrutura</sub>
+</td>
+
+<td align="center">
+🎨<br>
+<b>CSS</b><br>
+<sub>design</sub>
+</td>
+
+<td align="center">
+🐘<br>
+<b>PHP</b><br>
+<sub>back-end</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>Banco de Dados</b><br>
+<sub>SQL</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+```text id="f4q9lw"
+       ☁️ MY LEARNING CLOUD ☁️
+
+       HTML       ████████░░
+       CSS        ██████░░░░
+       PHP        ████░░░░░░
+       SQL        ████░░░░░░
+
+       ♡ learning... ♡
+```
+
+<br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="130">
+
+<br><br>
+
+<sub>☁️ aprendendo um pouquinho todos os dias ☁️</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🥐₊˚⊹♡ Cinnamoroll's Café ♡⊹˚₊🥐
+
+<br>
+
+```text id="4rj0j5"
+╭────────────────────────────────────╮
+│                                    │
+│       ☁️  WELCOME  ☁️              │
+│                                    │
+│       🥐 HTML                      │
+│       🧁 CSS                       │
+│       🍰 PHP                       │
+│       ☕ SQL                        │
+│                                    │
+│       ────────────────             │
+│                                    │
+│       today's special:             │
+│       ✦ learning something new ✦  │
+│                                    │
+╰────────────────────────────────────╯
+```
+
+<br>
+
+☁️ **HTML** — construindo a estrutura
+🩵 **CSS** — deixando tudo bonitinho
+🥐 **PHP** — aprendendo o back-end
+🗄️ **SQL** — organizando os dados
+
+<br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="110">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+
+
+<br>
+
+---
+
+<div align="center">
+
+## ☁️₊˚♡ minha jornada ♡˚₊☁️
+
+<br>
+
+```text id="v6d2ye"
+          ☁️
+       ☁️   ☁️
+          ↓
+      aprender
+          ↓
+       praticar
+          ↓
+        criar
+          ↓
+      melhorar
+          ↓
+         ✦
+```
+
+<br>
+
+🌸 Explorando o mundo do desenvolvimento web
+☁️ Aprendendo novas tecnologias
+💻 Criando projetos para praticar
+🩵 Desenvolvendo minha lógica de programação
+✨ Construindo minha base para projetos maiores
+
+<br>
+
+> ☁️ *Dream big, code bigger.* ☁️
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ☁️𓂃𓈒𓏸 contatos 𓏸𓈒𓂃☁️
+
+<br>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-7EC8E3?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://instagram.com/SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-9DDAF2?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-B9E8F7?style=for-the-badge&logo=gmail&logoColor=4A90A4">
+</a>
+
+<br><br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="120">
+
+<br><br>
+
+<p>
+☁️ ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp;
+<b>obrigada por visitar meu perfil!</b>
+&nbsp; ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ☁️
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
+<sub>♡ feito com código, nuvens, café e muito Cinnamoroll ♡</sub>
 
----
+<br><br>
 
-## 💐 Skills & Technologies
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9DDAF2&height=100&section=footer">
 
-| Category              | Technologies                      |
-| --------------------- | --------------------------------- |
-| 💻 Programming        | Python, C++                       |
-| 🖥️ Operating Systems | Ubuntu Linux, Windows             |
-| ⚙️ Development        | Software Engineering, Git, GitHub |
-| 🤖 Embedded Systems   | Arduino                           |
-| 🛠️ Tools             | VS Code, CMD                      |
-
----
-
-## 🌸 Core Strengths
-
-✔️ Self-management
-
-✔️ Time Management
-
-✔️ Proactivity
-
-✔️ Teamwork
-
-✔️ Organization
-
-✔️ Problem Solving
-
-✔️ Software Project Development
-
-✔️ Continuous Learning
-
----
-
-## 🏵️ Current Focus
-
-🐍 Improving my Python programming skills
-
-🖥️ Deepening my knowledge of Linux Ubuntu and command-line environments
-
-⚙️ Learning Software Engineering principles and best practices
-
-🤖 Developing Arduino-based projects and automation solutions
-
-💻 Expanding my C++ programming knowledge
-
-📚 Building a strong foundation in software development concepts
-
-🚀 Continuously improving problem-solving and analytical thinking skills
-
----
-
-
-## 🪷 Let's Connect
-
-📧 E-mail: santtilhos@gmail.com
-
-🐙 GitHub: https://github.com/carvalhoalicia
-
----
-
-## 💮 Thanks for Visiting!
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBsb3Fiam05aTJ1bDF1M2tiZzNlZ2l3cnU5MXRuOHQ2dWUweHp0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wsk723nT8tXpe/giphy.gif" width="500" alt="Coding GIF">
-</p>
-
-> "Turning curiosity into knowledge and knowledge into solutions."
+</div>
