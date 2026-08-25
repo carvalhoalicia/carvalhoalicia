@@ -51,7 +51,7 @@
 
 <br><br>
 
-♡ **Hi! I'm Kiyomi** ♡
+♡ **Hi! I'm Alicia** ♡
 
 <br><br>
 
@@ -390,11 +390,11 @@ every day.
 
 <br>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/carvalhooalicia">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:alicia.senai8124@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black">
 </a>
 
