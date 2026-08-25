@@ -5,7 +5,7 @@ Technical Student in Software Development
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=Software+Development+Student;Learning+Python+and+C%2B%2B;Exploring+Linux+and+Arduino;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=Software+Development+Student;Learning+Python+and+C%2B%2B;Exploring+Linux+and+Arduino;Learning+HTML+and+CSS;Always+Learning+Something+New" />
 </p>
 
 
