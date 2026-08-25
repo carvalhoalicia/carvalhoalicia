@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alicia</h1>
 
 <h3 align="center">
-Technical Student in Software Development | Python Learner | Arduino Enthusiast
+Technical Student in Software Development
 </h3>
 
 <p align="center">
