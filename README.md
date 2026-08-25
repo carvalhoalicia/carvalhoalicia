@@ -4,16 +4,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=27&pause=1000&color=7EC8E3&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Ola%2C+eu+sou+a+Alicia!+%E2%98%81%EF%B8%8F;%E2%9C%A8+Bem-vindo+ao+meu+cantinho!+%E2%9C%A8;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Currently+learning...+HTML+%26+CSS" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=27&pause=1000&color=7EC8E3&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Heyy%2C+I'm+Alicia!+%E2%98%81%EF%B8%8F;%E2%9C%A8+Welcome+to+my+coding+space!+%E2%9C%A8;%F0%9F%92%BB+Systems+Development+Student;%F0%9F%8C%B8+Currently+learning...+HTML+%26+CSS" alt="Typing SVG">
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9DDAF2&height=3&section=header" width="70%">
 
 <p>
-  ☁️ <em>Estudante de Desenvolvimento de Sistemas</em><br>
-  🩵 <em>aprendendo, criando e explorando tecnologia</em><br>
-  ✦ <em>um código de cada vez, nas nuvens</em>
+  ☁️ <em>Systems Development Student</em><br>
+  🩵 <em>learning, creating and exploring technology</em><br>
+  ✦ <em>coding one little step at a time</em>
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## ☁️₊˚⊹♡ sobre mim ♡⊹˚₊☁️
+## ☁️₊˚⊹♡ About Me ♡⊹˚₊☁️
 
 <table>
 <tr>
@@ -39,14 +39,14 @@
 
 <br><br>
 
-🩵 **Estudante de Desenvolvimento de Sistemas** <br>
-🌐 Atualmente aprendendo **HTML e CSS** <br>
-🐘 Aprendendo **PHP** <br>
-🗄️ Aprendendo **Banco de Dados** <br>
-🐍 Conhecimento em **Python** <br>
-⚙️ Conhecimento em **C++** <br>
-🐧 Familiaridade com **Linux** <br>
-☁️ Sempre explorando coisas novas
+🩵 **Systems Development Student** <br>
+🌐 Currently learning **HTML & CSS** <br>
+🐘 Learning **PHP** <br>
+🗄️ Learning **Databases** <br>
+🐍 Knowledge of **Python** <br>
+⚙️ Knowledge of **C++** <br>
+🐧 Familiar with **Linux** <br>
+☁️ Always exploring something new
 
 <br><br>
 
@@ -58,7 +58,7 @@
 
 <br><br>
 
-```text id="9m7j3a"
+```text
        ☁️       ☁️
     ☁️    ♡    ☁️
        /\___/\
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-## 🩵₊˚୨୧ linguagens & ferramentas ୨୧˚₊🩵
+## 🩵₊˚୨୧ Languages & Tools ୨୧˚₊🩵
 
 <br>
 
@@ -96,37 +96,37 @@
 <td align="center">
 🐍<br>
 <b>Python</b><br>
-<sub>Conhecimento</sub>
+<sub>Knowledge</sub>
 </td>
 
 <td align="center">
 ⚙️<br>
 <b>C++</b><br>
-<sub>Conhecimento</sub>
+<sub>Knowledge</sub>
 </td>
 
 <td align="center">
 🌐<br>
 <b>HTML</b><br>
-<sub>Aprendendo</sub>
+<sub>Learning</sub>
 </td>
 
 <td align="center">
 🎀<br>
 <b>CSS</b><br>
-<sub>Aprendendo</sub>
+<sub>Learning</sub>
 </td>
 
 <td align="center">
 🐘<br>
 <b>PHP</b><br>
-<sub>Aprendendo</sub>
+<sub>Learning</sub>
 </td>
 
 <td align="center">
 🗄️<br>
 <b>SQL</b><br>
-<sub>Aprendendo</sub>
+<sub>Learning</sub>
 </td>
 
 </tr>
@@ -134,7 +134,7 @@
 
 <br>
 
-<sub>☁️ tecnologias que estou aprendendo, praticando e explorando ☁️</sub>
+<sub>☁️ technologies I'm learning, practicing and exploring ☁️</sub>
 
 </div>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-## ☁️₊˚ʚ♡ɞ˚₊ atualmente aprendendo ₊˚ʚ♡ɞ˚₊☁️
+## ☁️₊˚ʚ♡ɞ˚₊ Currently Learning ₊˚ʚ♡ɞ˚₊☁️
 
 <br>
 
@@ -154,24 +154,24 @@
 <td align="center">
 🌐<br>
 <b>HTML</b><br>
-<sub>estrutura</sub>
+<sub>Structure</sub>
 </td>
 
 <td align="center">
 🎨<br>
 <b>CSS</b><br>
-<sub>design</sub>
+<sub>Design</sub>
 </td>
 
 <td align="center">
 🐘<br>
 <b>PHP</b><br>
-<sub>back-end</sub>
+<sub>Back-end</sub>
 </td>
 
 <td align="center">
 🗄️<br>
-<b>Banco de Dados</b><br>
+<b>Databases</b><br>
 <sub>SQL</sub>
 </td>
 
@@ -180,7 +180,7 @@
 
 <br>
 
-```text id="f4q9lw"
+```text
        ☁️ MY LEARNING CLOUD ☁️
 
        HTML       ████████░░
@@ -197,9 +197,11 @@
 
 <br><br>
 
-<sub>☁️ aprendendo um pouquinho todos os dias ☁️</sub>
+<sub>☁️ learning a little more every day ☁️</sub>
 
 </div>
+
+<br>
 
 ---
 
@@ -209,7 +211,7 @@
 
 <br>
 
-```text id="4rj0j5"
+```text
 ╭────────────────────────────────────╮
 │                                    │
 │       ☁️  WELCOME  ☁️              │
@@ -229,10 +231,10 @@
 
 <br>
 
-☁️ **HTML** — construindo a estrutura
-🩵 **CSS** — deixando tudo bonitinho
-🥐 **PHP** — aprendendo o back-end
-🗄️ **SQL** — organizando os dados
+☁️ **HTML** — building the structure
+🩵 **CSS** — making everything pretty
+🥐 **PHP** — learning back-end development
+🗄️ **SQL** — organizing and managing data
 
 <br>
 
@@ -246,40 +248,32 @@
 
 <div align="center">
 
-
-
-<br>
-
----
-
-<div align="center">
-
-## ☁️₊˚♡ minha jornada ♡˚₊☁️
+## ☁️₊˚♡ My Journey ♡˚₊☁️
 
 <br>
 
-```text id="v6d2ye"
+```text
           ☁️
        ☁️   ☁️
           ↓
-      aprender
+       learn
           ↓
-       praticar
+       practice
           ↓
-        criar
+        create
           ↓
-      melhorar
+       improve
           ↓
          ✦
 ```
 
 <br>
 
-🌸 Explorando o mundo do desenvolvimento web
-☁️ Aprendendo novas tecnologias
-💻 Criando projetos para praticar
-🩵 Desenvolvendo minha lógica de programação
-✨ Construindo minha base para projetos maiores
+🌸 Exploring the world of web development
+☁️ Learning new technologies
+💻 Creating projects to practice
+🩵 Improving my programming logic
+✨ Building a foundation for bigger projects
 
 <br>
 
@@ -293,6 +287,47 @@
 
 <div align="center">
 
+## 🩵₊˚୨୧ My Goals ୨୧˚₊🩵
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+🌐<br>
+<b>Web Development</b><br>
+<sub>Keep learning</sub>
+</td>
+
+<td align="center">
+💻<br>
+<b>Projects</b><br>
+<sub>Build more</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>Databases</b><br>
+<sub>Get better</sub>
+</td>
+
+<td align="center">
+🚀<br>
+<b>Future</b><br>
+<sub>Keep growing</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="120">
+
+<br>
+
+<sub>☁️ one step at a time ☁️</sub>
 
 </div>
 
@@ -302,19 +337,15 @@
 
 <div align="center">
 
-## ☁️𓂃𓈒𓏸 contatos 𓏸𓈒𓂃☁️
+## ☁️𓂃𓈒𓏸 Contact Me 𓏸𓈒𓂃☁️
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-7EC8E3?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://instagram.com/YOUR_INSTAGRAM">
 <img src="https://img.shields.io/badge/Instagram-9DDAF2?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-B9E8F7?style=for-the-badge&logo=gmail&logoColor=4A90A4">
 </a>
 
@@ -326,11 +357,11 @@
 
 <p>
 ☁️ ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp;
-<b>obrigada por visitar meu perfil!</b>
+<b>Thanks for visiting my little corner!</b>
 &nbsp; ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ☁️
 </p>
 
-<sub>♡ feito com código, nuvens, café e muito Cinnamoroll ♡</sub>
+<sub>♡ made with code, clouds, coffee and lots of Cinnamoroll ♡</sub>
 
 <br><br>
 
