@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cinnamoroll-banner.jpg" width="100%" height="200px" style="object-fit: cover; display: block; border-radius: 15px;">
+<img src="https://i.pinimg.com/1200x/95/2a/ee/952aee81413e9b2a4385dbe988f81152.jpg" width="100%" height="200px" style="object-fit: cover; display: block; border-radius: 15px;">
 
 <br>
 
