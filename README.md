@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=27&pause=1000&color=7EC8E3&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Olá%2C+eu+sou+a+Alicia!+%E2%98%81%EF%B8%8F;%E2%9C%A8+Bem-vindo+ao+meu+cantinho!+%E2%9C%A8;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Currently+learning...+HTML+%26+CSS" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=27&pause=1000&color=7EC8E3&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Ola%2C+eu+sou+a+Alicia!+%E2%98%81%EF%B8%8F;%E2%9C%A8+Bem-vindo+ao+meu+cantinho!+%E2%9C%A8;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Currently+learning...+HTML+%26+CSS" alt="Typing SVG">
 
 <br>
 
